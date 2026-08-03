@@ -1,14 +1,18 @@
 # 📋 BugBank - Documentação de Casos de Teste
 
-> Projeto de portfólio desenvolvido durante o Workshop de Quality Assurance da EBAC.
+> Projeto de portfólio desenvolvido durante o Workshop de QA da EBAC com o objetivo de praticar a elaboração e documentação de casos de teste a partir dos requisitos da aplicação BugBank.
 
 <p align="center">
-  <img src="Bugbank-home.png" alt="Capa do projeto" width="700">
+  <img src="cover.png" alt="Capa do projeto" width="700">
 </p>
 
 ## 📖 Sobre o projeto
 
 Este projeto apresenta a documentação de casos de teste elaborados para a funcionalidade de cadastro do sistema **BugBank**, com base nos requisitos disponibilizados pela aplicação.
+
+<p align="center">
+  <img src="Bugbank-home.png" alt="Capa do projeto" width="700">
+</p>
 
 O objetivo foi praticar a análise de requisitos, a elaboração de casos de teste e a documentação dos cenários de validação, registrando os resultados esperados e os resultados obtidos durante a execução dos testes.
 
