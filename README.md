@@ -10,10 +10,6 @@
 
 Este projeto apresenta a documentação de casos de teste elaborados para a funcionalidade de cadastro do sistema **BugBank**, com base nos requisitos disponibilizados pela aplicação.
 
-<p align="center">
-  <img src="Bugbank-home.png" alt="Capa do projeto" width="700">
-</p>
-
 O objetivo foi praticar a análise de requisitos, a elaboração de casos de teste e a documentação dos cenários de validação, registrando os resultados esperados e os resultados obtidos durante a execução dos testes.
 
 ## 🎯 Competências praticadas
@@ -28,6 +24,9 @@ O objetivo foi praticar a análise de requisitos, a elaboração de casos de tes
 
 - Aplicação: https://bugbank.netlify.app/
 - Requisitos: https://bugbank.netlify.app/requirements
+<p align="center">
+  <img src="Bugbank-home.png" alt="Capa do projeto" width="700">
+</p>
 
 ## 📄 Documentação
 
