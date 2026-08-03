@@ -3,7 +3,7 @@
 > Projeto de portfólio desenvolvido durante o Workshop de Quality Assurance da EBAC.
 
 <p align="center">
-  <img src="images/cover.png" alt="Capa do projeto" width="700">
+  <img src="Bugbank-home.png" alt="Capa do projeto" width="700">
 </p>
 
 ## 📖 Sobre o projeto
