@@ -30,9 +30,9 @@ O objetivo foi praticar a análise de requisitos, a elaboração de casos de tes
 
 ## 📄 Documentação
 
-O documento completo está disponível neste repositório:
+O documento completo pode ser acessado abaixo:
 
-📄 **BugBank - Documentação de Casos de Teste.pdf**
+- [📄 BugBank - Documentação de Casos de Teste](./BugBank-Documentacao-de-Casos-de-Teste.pdf)
 
 ---
 
